@@ -28,6 +28,7 @@ public class Main {
         dvdarray.add(dvd3);
         cd1.spinDisc();
         cd1.read();
+        cd1.write();
 
 
         // TODO: Declare and initialize a CD and a DVD object.
